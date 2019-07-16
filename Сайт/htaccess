@@ -1,0 +1,3 @@
+ErrorDocument 404 /404.html
+
+Redirect /breakup https://ivangavrilin.ru/breakup.html
