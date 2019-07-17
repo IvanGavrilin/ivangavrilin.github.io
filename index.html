@@ -1,21 +1,13 @@
----
-layout: default
-pagination:
-  enabled: true
----
-<!-- The main content area -->
-<div class="posts">
-  <div class="grid-xlarge">
-    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+<!DOCTYPE html>
+<html lang="en">
 
-      {% for post in paginator.posts %}
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
 
-        <!-- The tag below includes the markup for each post - partials/post-card.html -->
-        {% include post-card.html %}
+<body>
+    Document
+</body>
 
-      {% endfor %}
-    </div>
-  </div>
-
-  {% include pagination.html %}
-</div>
+</html>
