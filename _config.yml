@@ -5,11 +5,11 @@ permalink:           pretty
 
 
 # Setup
-title:               Блог Ивана Гаврилин
+title:               Блог Ивана Гаврилина
 tagline:             'Сторителлинг и психология'
 description:         'Блог Ивана Гаврилина: сторителлинг, циник, джокер'
 url:                 https://ivangavrilin.ru
-baseurl:             '/blog'
+baseurl:             ''
 paginate:            5
 
 # About/contact
