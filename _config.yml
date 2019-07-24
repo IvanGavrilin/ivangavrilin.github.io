@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Блог Ивана Гаврилин
+tagline:             'Сторителлинг и психология'
+description:         'Блог Ивана Гаврилина: сторителлинг, циник, джокер'
+url:                 https://ivangavrilin.ru
+baseurl:             '/blog'
+paginate:            5
+
+# About/contact
+author:
+  name:              Иван Гаврилин
+  url:               https://ivangavrilin.ru
+  email:             gavrilinivan@gmail.com
+
+# Custom vars
+version:             1.0.0
