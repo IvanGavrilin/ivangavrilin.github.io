@@ -1,7 +1,7 @@
 # Site settings
 title:          Блог Ивана Гаврилина
 description:    "Рассказы о психологии, отношениях и смысле жизни"
-baseurl:        "/"
+baseurl:        "/tale"
 url:            "https://ivangavrilin.ru"
 
 # Google Analytics
