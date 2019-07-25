@@ -2,7 +2,7 @@
 title:          Блог Ивана Гаврилина
 description:    "Сторителлинг о психологии, отношения и смысле жизни"
 # baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://ivangavrilin.ru"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -10,7 +10,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Иван Гаврилин
-  url:          https://chester.how
+  url:          https://ivangavrilin.ru
   email:        gavrilinivan@gmail.com
 
 # Build settings
