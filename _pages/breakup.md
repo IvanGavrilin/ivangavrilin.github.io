@@ -4,7 +4,9 @@ title: "Курс Расставание, развод, измена: как вы
 permalink: /breakup/
 ---
 
-https://youtu.be/SjOSZz8LKoE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SjOSZz8LKoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=SjOSZz8LKoE
 
 <h3>Если</h3>
 * ваши отношения вас уже не устраивают
