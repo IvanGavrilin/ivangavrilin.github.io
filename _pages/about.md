@@ -1,15 +1,37 @@
 ---
 layout: post
-title: "About"
-author: "Chester"
+title: "Иван Гаврилин"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Специалист по прогнозированию поведения людей, распознаванию лжи и получению тщательно скрываемой информации.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+Помогаю пережить расставание, развод, измену и сохранить нервы, детей и имущество.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+Избавляю от страхов, связанных с общением.
 
-Thanks for reading!
+Обучаю профайлингу(прогнозированию поведения людей), распознаванию лжи и социальной инженерии (созданию и разрушению зависимых отношений).
+
+Циник, джокер, сторителлер.
+
+Сертифицирован Европейской ассоциацией психотерапии, Азиатской федерацией психотерапии, Всемирным советом по психотерапии, Профессиональной психотерапевтической лигой Российской Федерации как специалист по методу эмоционально-образной терапии Николая Дмитриевича Линде
+
+Вхожу в реестр специалистов, имеющих официальное право использовать метод эмоционально-образной терапии в своей практике
+
+Международно сертифицированный НЛП-практик в Институте психотерапии и клинической психологии
+
+Обучался нейроэкономике в Высшей Школе Экономики
+
+Много лет изучал Теорию Игр и ТРИЗ (теория решения изобратетельских задач)
+
+Cертифицированный тренер
+
+Обучался профайлингу (прогнозированию поведения людей), верификации лжи (распознаванию лжи) и получению тщательно скрываемой информации у ведущего профайлера России Алексея Филатова
+
+Обучался методу Провокативной терапии у Александра Любимова
+
+Победитель курсов «Ораторское искусство» и «Победители: психология влияния» одного из ведущих тренеров России и стран СНГ по лидерству, харизме, психологии влияния и ораторскому мастерству Дмитрия Устинова
+
+Бывший советник главы управы одного из округов Москвы
+
+Бывший со-ведущий «Тренинга уверенности» вместе с Денисом Швецовым и куратор тренингов Николая Ивановича Козлова в крупнейшем тренинговом центре России и стран СНГ «Синтон»
