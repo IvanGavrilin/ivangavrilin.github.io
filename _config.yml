@@ -10,7 +10,7 @@ tagline:             'Сторителлинг о психологии'
 description:         'Иван Гаврилин. Специалист по прогнозированию и управлению поведением людей'
 url:                 https://ivangavrilin.ru
 baseurl:             ''
-paginate:            5
+paginate:            1
 
 # About/contact
 author:
