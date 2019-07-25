@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
+  name:         Иван Гаврилин
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        gavrilinivan@gmail.com
 
 # Build settings
 markdown:       kramdown
