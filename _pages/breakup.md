@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Курс Расставание, развод, измена: как выжить, пережить и жить дальше"
-permalink: /contacts/
+permalink: /breakup/
 ---
 
 https://www.youtube-nocookie.com/embed/SjOSZz8LKoE
