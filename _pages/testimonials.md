@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Отзывы"
+title: "Отзывы.Иван Гаврилин"
 permalink: /testimonials/
 ---
 
+Отзывы о работе с Иваном Гаврилиным
        <img src="assets/img/testimonials/o1.png" alt="Иван Гаврилин. Отзывы">
        <img src="assets/img/testimonials/o2.png" alt="Иван Гаврилин. Отзывы">
        <img src="assets/img/testimonials/o3.png" alt="Иван Гаврилин. Отзывы">
