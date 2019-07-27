@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Отзывы.Иван Гаврилин"
 permalink: /testimonials/
 ---
