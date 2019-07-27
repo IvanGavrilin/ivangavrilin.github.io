@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="catalogue">
+  {% for post in paginator.posts %}
+    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
+      <div>
+        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%d.%m.%Y" }}</time>
+        <h1 class="catalogue-title">{{ post.tag.story }}</h1> 
+        <div class="catalogue-line"></div>
+
+        <p>
+          {{ post.content | strip_html | truncatewords:27 }}
+        </p>
+
+      </div>
+    </a>
+  {% endfor %}
+</div>
