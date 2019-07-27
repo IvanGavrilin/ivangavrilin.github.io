@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Отзывы.Иван Гаврилин"
+title: "Отзывы"
 permalink: /testimonials/
 ---
 
