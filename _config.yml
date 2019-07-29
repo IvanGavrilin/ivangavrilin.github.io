@@ -25,7 +25,7 @@ sass:
 
 # Gems
 plugins:
-  - jekyll-feed
+#   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -34,10 +34,10 @@ plugins:
 
   sitemap:
     filename: "/sitemap.xml"
-#     exclude:
-#         - "/atom.xml"
-#         - "/feed.xml"
-#         - "/feed/index.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
     include_posts:
         - "/index.html"
     change_frequency_name: "change_frequency"
