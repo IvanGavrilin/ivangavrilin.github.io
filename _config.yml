@@ -32,16 +32,16 @@ plugins:
   # - jemoji #Uncomment this to allow emoji in your post
 
 
-  sitemap:
-    filename: "/sitemap.xml"
-    exclude:
-        - "/atom.xml"
-        - "/feed.xml"
-        - "/feed/index.xml"
-    include_posts:
-        - "/index.html"
-    change_frequency_name: "change_frequency"
-    priority_name: "priority"
+#   sitemap:
+#     filename: "/sitemap.xml"
+#     exclude:
+#         - "/atom.xml"
+#         - "/feed.xml"
+#         - "/feed/index.xml"
+#     include_posts:
+#         - "/index.html"
+#     change_frequency_name: "change_frequency"
+#     priority_name: "priority"
 
 # Permalinks
 permalink:      /:title
