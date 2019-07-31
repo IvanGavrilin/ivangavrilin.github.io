@@ -112,7 +112,6 @@ author:
   bio              : "Специалист по прогнозированию поведения людей"
 #   location         : "Somewhere"
 #   email            : gavrilinivan@gmail.com
-
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -123,9 +122,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/gavrilinivan"
-     - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/IvanGavrilin"
+
 
 # Site Footer
 footer:
