@@ -1,7 +1,6 @@
 ---
-layout: single
-permalink: /consulting/
 title: "Консультации"
+permalink: /consulting/
 ---
 
 Консультции Иван Гаврилин
