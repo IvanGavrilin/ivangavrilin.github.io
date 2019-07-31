@@ -113,9 +113,9 @@ author:
 #   location         : "Somewhere"
 #   email            : gavrilinivan@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:gavrilinivan@gmail.com
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: mailto:gavrilinivan@gmail.com
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/gavrilinivan"
@@ -130,7 +130,7 @@ footer:
 #     - label: "Email"
 #       icon: "fas fa-fw fa-envelope-square"
 #       url: mailto:gavrilinivan@gmail.com
-    - label: "Facebook-"
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/gavrilinivan"
     - label: "Instagram"
