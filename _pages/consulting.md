@@ -1,6 +1,7 @@
 ---
-title: "Консультации"
+layout: single
 permalink: /consulting/
+title: "Консультации"
 ---
 
 Консультции Иван Гаврилин
