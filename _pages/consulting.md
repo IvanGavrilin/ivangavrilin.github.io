@@ -1,6 +1,6 @@
 ---
 title: "Консультации"
-permalink:/consulting/
+permalink: /consulting/
 ---
 
 Консультции Иван Гаврилин
