@@ -1,12 +1,12 @@
 # main links
 main:
-#   - title: "Quick-Start Guide"
-#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Обо мне"
     url: /about/
   - title: "Консультации"
     url: /сonsulting/
   - title: "Отзывы"
-    url: /collection-archive/
+    url: /testimonials/
   - title: "Курсы"
-    url: /sitemap/
+    url: /courses/
+  - title: "Как со мной связаться"
+    url: /contacts/
