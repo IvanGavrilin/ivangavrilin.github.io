@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Иван Гаврилин"
   avatar : "/assets/images/ig.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Специалист по прогнозированию поведения людей"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
