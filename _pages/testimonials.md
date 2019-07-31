@@ -3,11 +3,11 @@ title: Отзывы
 permalink: /testimonials/
 published: true
 ---
-![Иван Гаврилин отзыв]({{site.baseurl}}//assets/images/testimonials/1.png)
-![Иван Гаврилин отзыв]({{site.baseurl}}//assets/images/testimonials/2.png)
-![Иван Гаврилин отзыв]({{site.baseurl}}//assets/images/testimonials/3.png)
-![Иван Гаврилин отзыв]({{site.baseurl}}//assets/images/testimonials/4.png)
-![Иван Гаврилин отзыв]({{site.baseurl}}//assets/images/testimonials/5.png)
+![Иван Гаврилин отзыв]({{site.baseurl}}/assets/images/testimonials/1.png)
+![Иван Гаврилин отзыв]({{site.baseurl}}/assets/images/testimonials/2.png)
+![Иван Гаврилин отзыв]({{site.baseurl}}/assets/images/testimonials/3.png)
+![Иван Гаврилин отзыв]({{site.baseurl}}/assets/images/testimonials/4.png)
+![Иван Гаврилин отзыв]({{site.baseurl}}/assets/images/testimonials/5.png)
 ![Иван Гаврилин отзыв]({{site.baseurl}}//assets/images/testimonials/6.png)
 ![Иван Гаврилин отзыв]({{site.baseurl}}//assets/images/testimonials/7.png)
 ![Иван Гаврилин отзыв]({{site.baseurl}}//assets/images/testimonials/8.png)
