@@ -1,0 +1,4 @@
+---
+title: "Курсы"
+permalink: /courses/
+---
