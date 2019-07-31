@@ -118,10 +118,13 @@ author:
       url: gavrilinivan@gmail.com
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/gavrilinivan"
+      url: "https://facebook.com/gavrilinivan target="_blank"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/gavrilinivan"
+      url: "https://instagram.com/gavrilinivan target="_blank"
+     - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/IvanGavrilin target="_blank"
 
 # Site Footer
 footer:
