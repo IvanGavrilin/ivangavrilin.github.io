@@ -7,7 +7,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ru"
 title                    : "Иван Гаврилин"
 title_separator          : "-"
-subtitle                 : Циник, Джокер, Сторителлер.
+subtitle                 : Циник, Джокер, Сторителлер.<br>
                            Специалист по прогнозированию поведения людей
 name                     : "Иван Гаврилин. Официальный сайт"
 description              : "Сайт Ивана Гаврилина - специалиста по прогнозированию поведения людей."
