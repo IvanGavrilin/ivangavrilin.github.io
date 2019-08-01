@@ -1,9 +1,36 @@
 ---
 layout: single
 permalink: /about/
-title: "About"
+title: "Обо мне"
 ---
+Специалист по прогнозированию и управлению поведением людей
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Помогаю пережить расставание, развод, измену и сохранить нервы, детей и имущество
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Избавляю от страха продаж, страха знакомств, страха публичных выступлений
+
+Обучаю профайлингу, распознаванию лжи и социальной инженерии
+
+Циник, Джокер, Сторителлер
+
+Сертифицирован Европейской ассоциацией психотерапии, Азиатской федерацией психотерапии, Всемирным советом по психотерапии, Профессиональной психотерапевтической лигой Российской Федерации как специалист по методу эмоционально-образной терапии Николая Дмитриевича Линде
+
+Вхожу в реестр специалистов, имеющих официальное право использовать метод эмоционально-образной терапии в своей практике
+
+Международно сертифицированный НЛП-практик в Институте психотерапии и клинической психологии
+
+Обучался нейроэкономике в Высшей Школе Экономики
+
+Много лет изучал Теорию Игр и ТРИЗ (теория решения изобратетельских задач)
+
+Cертифицированный тренер
+
+Обучался профайлингу (прогнозированию поведения людей), верификации лжи (распознаванию лжи) и получению тщательно скрываемой информации у ведущего профайлера России Алексея Филатова
+
+Обучался методу Провокативной терапии у Александра Любимова
+
+Бывший советник главы управы одного из округов Москвы
+
+Победитель курсов «Ораторское искусство» и «Победители: психология влияния» одного из ведущих тренеров России и стран СНГ по лидерству, харизме, психологии влияния и ораторскому мастерству Дмитрия Устинова
+
+Бывший со-ведущий «Тренинга уверенности» вместе с Денисом Швецовым и куратор тренингов Николая Ивановича Козлова в крупнейшем тренинговом центре России и стран СНГ «Синтон»
