@@ -2,6 +2,8 @@
 layout: single
 permalink: /breakup/
 title: "Курс Расставание, развод, измена: как выжить, пережить и жить дальше"
+mkeywords:<meta name="descrition" content="пережить расставание, развод, измену">
+<meta name="Keywords" content="курс ивана гаврилин расставание, развод, измена, как выжить, пережить и жить дальше>
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SjOSZz8LKoE" frameborder="15" allow="accelerometer; autolay; encryted-media; gyroscoe; icture-in-icture" allowfullscreen></iframe>
