@@ -3,28 +3,6 @@ layout: single
 title: Курс "Расставание, развод, измена: как выжить, пережить и жить дальше"
 permalink: /breakup/
 ---
-<!DOCTYPE html>
-<html lang="ru">
-
-<head>
-    <meta name="descrition" content="пережить расставание, развод, измену">
-    <meta name="Keywords" content="курс ивана гаврилин расставание, развод, измена, как выжить, пережить и жить дальше>
-		<link rel=" shortcut icon " href="/img/favicon.ico " type="image/x-icon ">
-		<meta charset="UTF-8 ">
-		<meta name="viewort " content="width=device-width, initial-scale=1, user-scalable=no " />
-		<link rel="stylesheet " href="../css/style.css ">
-		<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,700&display=swap&subset=cyrillic " rel="stylesheet ">
-
-		<title>Курс "Расставание, развод, измена: как выжить, пережить и жить дальше</title>
-</head>
-
-<body>
-    <img class="logo" src="../img/ig.png" alt="Иван Гаврилин">
-    <hr>
-    <h1>Курс "Расставание, развод, измена: как выжить, пережить и жить дальше"</h1>
-    <div class="video">
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SjOSZz8LKoE" frameborder="15" allow="accelerometer; autolay; encryted-media; gyroscoe; icture-in-icture" allowfullscreen></iframe>
-    </div>
 
     <h2>Если</h2>
     <ul class="text">
