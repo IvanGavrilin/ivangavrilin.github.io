@@ -6,7 +6,7 @@ title: "Курс Расставание, развод, измена: как вы
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SjOSZz8LKoE" frameborder="15" allow="accelerometer; autolay; encryted-media; gyroscoe; icture-in-icture" allowfullscreen></iframe>
 
-   ## Если так получилось, что 
+## Если так получилось, что 
    
 - ваши отношения вас уже не устраивают
 - вы расстались с любимым человеком
