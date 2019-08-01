@@ -8,5 +8,7 @@ main:
     url: /testimonials/
   - title: "Курсы"
     url: /courses/
+  - title: "Блог"
+    url: /testimonials/
   - title: "Контакты"
     url: /contacts/
