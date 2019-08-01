@@ -7,7 +7,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ru"
 title                    : "Иван Гаврилин"
 title_separator          : "-"
-subtitle                 : Циник, Джокер, Сторителлер
+subtitle                 : Циник, Джокер, Сторителлер.
+                           Специалист по прогнозированию поведения людей
 name                     : "Иван Гаврилин. Официальный сайт"
 description              : "Сайт Ивана Гаврилина - специалиста по прогнозированию поведения людей."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
