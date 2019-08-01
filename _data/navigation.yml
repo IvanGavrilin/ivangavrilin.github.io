@@ -2,7 +2,7 @@
 main:
   - title: "Обо мне"
     url: /about/
-  - title: "Консультации"
+  - title: "Услуги"
     url: /сonsulting/
   - title: "Отзывы"
     url: /testimonials/
