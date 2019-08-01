@@ -4,9 +4,10 @@ permalink: /testimonials/
 published: true
 ---
 
-https://www.youtube.com/watch?v=46VJoMUBw4s
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46VJoMUBw4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://photos.app.goo.gl/eosz6YENd69W67cS7" class="btn btn--primary" target="_blank">Прочитать текстовые отзывы</a>
+
 
 ![Иван Гаврилин отзыв]({{site.baseurl}}/assets/images/testimonials/1.png)
 ![Иван Гаврилин отзыв]({{site.baseurl}}/assets/images/testimonials/2.png)
