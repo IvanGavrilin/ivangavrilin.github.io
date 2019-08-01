@@ -68,7 +68,7 @@ ru: &DEFAULT_RU
   skip_footer                :
   page                       : "Страница"
   pagination_previous        : "Предыдущая"
-  pagination_next            : "Следующая история"
+  pagination_next            : "Следующая"
   breadcrumb_home_label      : "Главная"
   breadcrumb_separator       : "/"
   menu_label                 : "Выпадающее меню"
