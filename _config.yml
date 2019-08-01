@@ -100,30 +100,30 @@ author:
   avatar           : "/assets/images/ig.png"
   bio              : "Специалист по прогнозированию поведения людей"
 #   email            : gavrilinivan@gmail.com
-  links:
+#   links:
 #     - label: "Email"
 #       icon: "fas fa-fw fa-envelope-square"
 #       url: mailto:gavrilinivan@gmail.com
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/gavrilinivan"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/gavrilinivan"
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       url: "https://facebook.com/gavrilinivan"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/gavrilinivan"
 
 
 # Site Footer
-footer:
-  links:
+# footer:
+#   links:
 #     - label: "Email"
 #       icon: "fas fa-fw fa-envelope-square"
 #       url: mailto:gavrilinivan@gmail.com
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/gavrilinivan"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/gavrilinivan"
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       url: "https://facebook.com/gavrilinivan"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/gavrilinivan"
 
 
 # Reading Files
