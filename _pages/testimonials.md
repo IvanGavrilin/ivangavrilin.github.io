@@ -6,6 +6,8 @@ published: true
 
 https://www.youtube.com/watch?v=46VJoMUBw4s
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/46VJoMUBw4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Иван Гаврилин отзыв]({{site.baseurl}}/assets/images/testimonials/1.png)
 ![Иван Гаврилин отзыв]({{site.baseurl}}/assets/images/testimonials/2.png)
 ![Иван Гаврилин отзыв]({{site.baseurl}}/assets/images/testimonials/3.png)
