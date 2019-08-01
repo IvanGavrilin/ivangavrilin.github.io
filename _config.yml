@@ -282,5 +282,5 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: default
+      layout: page
       author_profile: false
