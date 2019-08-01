@@ -7,4 +7,4 @@ E-mail: gavrlinivan@gmail.com
 
 Я на Facebook: link:https://facebook.com/gavrilinivan
   
-Я в Telegram: link:https://t.me/IvanGavrilin
+Я в Telegram <a href="https://t.me/IvanGavrilin">Telegram</a>
