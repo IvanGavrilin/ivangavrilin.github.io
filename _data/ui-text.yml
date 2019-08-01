@@ -68,7 +68,7 @@ ru: &DEFAULT_RU
   skip_footer                :
   page                       : "Страница"
   pagination_previous        : "Предыдущая"
-  pagination_next            : "Следующая"
+  pagination_next            : "Следующая история"
   breadcrumb_home_label      : "Главная"
   breadcrumb_separator       : "/"
   menu_label                 : "Выпадающее меню"
@@ -77,7 +77,7 @@ ru: &DEFAULT_RU
   ext_link_label             : "Прямая ссылка"
   less_than                  : "менее"
   minute_read                : "мин на чтение"
-  share_on_label             : "Если вам понравился этот рассказ, то буду признателен, если вы поделитесь им с друзьями в социальны сетях, нажав на кнопки ниже"
+  share_on_label             : "Если вам понравился рассказ, то буду признателен, если вы поделитесь им с друзьями в социальны сетях, нажав на кнопки ниже"
   meta_label                 :
   tags_label                 : "Метки:"
   categories_label           : "Разделы:"
